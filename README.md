@@ -1,4 +1,4 @@
-# five_15
+# Quinientos Millas, Quince Días Challenge (QQC)
 Bike 500 miles in 15 semi-consecutive days
 
 

@@ -1,5 +1,5 @@
 # Quinientos Millas, Quince Días Challenge (QQC)
-Bike 500 miles in 15 semi-consecutive days
+QQC or Five-15 is a bike challenge where one bikes 500 miles in 15 semi-consecutive days.
 
 
 # The Challenge
